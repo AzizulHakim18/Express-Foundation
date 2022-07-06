@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.top-font {
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.link-box {
+    text-decoration: none;
+    background-color: #b8132c;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.top-section {
+
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.top-align {
+    text-align: center;
+    padding: 20%;
+    ;
+}
+
+.donate-today {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+
+.donate-flex {
+    display: flex;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+
+}
+
+.donate-box {
+
+    border: 3px white;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.donate-extrabox {
+
+    border: 3px solid rgb(140, 29, 29);
+    background-color: rgb(244, 196, 196);
+    text-align: center;
+    padding: 20px;
+
+}
+
+.donate-plan {
+    display: flex;
+    border-radius: 5px;
+
+}
+
+.donate-planbox {
+    background-color: rgb(251, 207, 207);
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+}
+
+.contribuiton {
+    display: flex;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.contribuiton img {
+    width: 100%;
+
+}
+
+.image-right {
+    padding-right: 20px;
+}
+
+.image-left {
+    padding-left: 40px;
+}
+
+.about-section {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+
+.last-flex {
+    display: flex;
+    text-align: left;
+
+}
+
+.last-flex img {
+    width: 100%;
+}
+
+.last-flexbox {
+
+    box-shadow: 5px 5px 10px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.form-fill {
+
+    text-align: center;
+    background-color: rgb(247, 215, 215);
+    margin: 50px;
+    padding: 40px;
+
+
+}
+
+.footer-section {
+    background-color: rgb(36, 32, 32);
+    text-align: center;
+    margin-top: 30px;
+    padding: 30px;
+
+}
+
+.orange {
+    color: rgb(177, 24, 85);
+    font-family: 'Lobster', cursive;
+}
+
+.white {
+    color: white;
+}
